@@ -1,0 +1,158 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="hZy-Pg_WWmPwMkknC1u4">
+    <mxGraphModel dx="911" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-2" parent="1" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="159" y="49" as="geometry" />
+        </mxCell>
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=2;" value="Activity Diagram : Research a student/a teacher" vertex="1">
+          <mxGeometry height="30" width="340" x="240" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-6" edge="1" parent="1" source="qDcRhrVpj4t-9t0wPRiS-2" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" target="qDcRhrVpj4t-9t0wPRiS-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="174" y="79" as="sourcePoint" />
+            <mxPoint x="174" y="139" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="choose the type of person" vertex="1">
+          <mxGeometry height="60" width="160" x="94" y="109" as="geometry" />
+        </mxCell>
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-7" edge="1" parent="1" source="qDcRhrVpj4t-9t0wPRiS-4" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="165" y="159" as="sourcePoint" />
+            <mxPoint x="174" y="219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-10" edge="1" parent="1" source="qDcRhrVpj4t-9t0wPRiS-11" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="173.99" y="299" />
+            </Array>
+            <mxPoint x="173.99399999999991" y="279" as="sourcePoint" />
+            <mxPoint x="173.99" y="319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="150" y="219" as="geometry" />
+        </mxCell>
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-13" edge="1" parent="1" source="qDcRhrVpj4t-9t0wPRiS-11" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="qDcRhrVpj4t-9t0wPRiS-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="165" y="159" as="sourcePoint" />
+            <mxPoint x="300" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-15" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Start the search" vertex="1">
+          <mxGeometry height="60" width="160" x="320" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-16" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="student chosen" vertex="1">
+          <mxGeometry height="60" width="160" x="320" y="214" as="geometry" />
+        </mxCell>
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-18" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Display person list" vertex="1">
+          <mxGeometry height="60" width="160" x="320" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-20" edge="1" parent="1" source="qDcRhrVpj4t-9t0wPRiS-16" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="4AVEcXPcKzyx0QGu6PfQ-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="460" y="300" as="sourcePoint" />
+            <mxPoint x="565.5" y="339" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-21" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="person not found" vertex="1">
+          <mxGeometry height="60" width="160" x="560" y="666" as="geometry" />
+        </mxCell>
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-22" edge="1" parent="1" source="aewM-FX9xYBDlpOxmldw-2" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="qDcRhrVpj4t-9t0wPRiS-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="460" y="650" as="sourcePoint" />
+            <mxPoint x="560" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-23" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="person found ?" vertex="1">
+          <mxGeometry height="60" width="160" x="319.5" y="577" as="geometry" />
+        </mxCell>
+        <mxCell id="4AVEcXPcKzyx0QGu6PfQ-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="4AVEcXPcKzyx0QGu6PfQ-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="174" y="409" />
+            </Array>
+            <mxPoint x="174" y="379" as="sourcePoint" />
+            <mxPoint x="173.99" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4AVEcXPcKzyx0QGu6PfQ-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="person found" vertex="1">
+          <mxGeometry height="60" width="160" x="320" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="4AVEcXPcKzyx0QGu6PfQ-8" edge="1" parent="1" source="4AVEcXPcKzyx0QGu6PfQ-7" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="qDcRhrVpj4t-9t0wPRiS-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="600" as="sourcePoint" />
+            <mxPoint x="300" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4AVEcXPcKzyx0QGu6PfQ-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Enter the search criterion" vertex="1">
+          <mxGeometry height="60" width="160" x="320" y="377" as="geometry" />
+        </mxCell>
+        <mxCell id="4AVEcXPcKzyx0QGu6PfQ-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="teacher chosen" vertex="1">
+          <mxGeometry height="60" width="160" x="94" y="319" as="geometry" />
+        </mxCell>
+        <mxCell id="4AVEcXPcKzyx0QGu6PfQ-14" edge="1" parent="1" source="4AVEcXPcKzyx0QGu6PfQ-11" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="437" as="sourcePoint" />
+            <mxPoint x="400" y="477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aewM-FX9xYBDlpOxmldw-1" edge="1" parent="1" source="qDcRhrVpj4t-9t0wPRiS-15" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="qDcRhrVpj4t-9t0wPRiS-23" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="447" as="sourcePoint" />
+            <mxPoint x="490" y="547" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aewM-FX9xYBDlpOxmldw-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="375" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="aewM-FX9xYBDlpOxmldw-3" edge="1" parent="1" source="qDcRhrVpj4t-9t0wPRiS-23" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aewM-FX9xYBDlpOxmldw-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430" y="827" as="sourcePoint" />
+            <mxPoint x="480" y="777" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aewM-FX9xYBDlpOxmldw-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="select a person" vertex="1">
+          <mxGeometry height="60" width="160" x="320" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="aewM-FX9xYBDlpOxmldw-6" edge="1" parent="1" source="qDcRhrVpj4t-9t0wPRiS-18" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="aewM-FX9xYBDlpOxmldw-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="810" as="sourcePoint" />
+            <mxPoint x="300" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aewM-FX9xYBDlpOxmldw-7" edge="1" parent="1" source="aewM-FX9xYBDlpOxmldw-2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="4AVEcXPcKzyx0QGu6PfQ-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="740" />
+            </Array>
+            <mxPoint x="640" y="750" as="sourcePoint" />
+            <mxPoint x="679.5" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aewM-FX9xYBDlpOxmldw-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Display person&#39;s information" vertex="1">
+          <mxGeometry height="60" width="160" x="319.5" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="aewM-FX9xYBDlpOxmldw-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="aewM-FX9xYBDlpOxmldw-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="399.5" y="1030" as="sourcePoint" />
+            <mxPoint x="299.5" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aewM-FX9xYBDlpOxmldw-10" edge="1" parent="1" source="qDcRhrVpj4t-9t0wPRiS-21" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="aewM-FX9xYBDlpOxmldw-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430" y="970" as="sourcePoint" />
+            <mxPoint x="650" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aewM-FX9xYBDlpOxmldw-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Display message person not found" vertex="1">
+          <mxGeometry height="60" width="160" x="560" y="778" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
