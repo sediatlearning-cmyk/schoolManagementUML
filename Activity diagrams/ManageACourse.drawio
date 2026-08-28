@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="hZy-Pg_WWmPwMkknC1u4">
-    <mxGraphModel dx="1290" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1571" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,21 +58,24 @@
         <mxCell id="qDcRhrVpj4t-9t0wPRiS-16" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="invalid information" vertex="1">
           <mxGeometry height="60" width="149" x="280" y="665" as="geometry" />
         </mxCell>
-        <mxCell id="qDcRhrVpj4t-9t0wPRiS-18" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="assign a unique student number" vertex="1">
-          <mxGeometry height="60" width="160" x="94" y="940" as="geometry" />
-        </mxCell>
         <mxCell id="qDcRhrVpj4t-9t0wPRiS-20" edge="1" parent="1" source="qDcRhrVpj4t-9t0wPRiS-16" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="4AVEcXPcKzyx0QGu6PfQ-9" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="564.5" y="690" />
+            </Array>
             <mxPoint x="340" y="740" as="sourcePoint" />
             <mxPoint x="420" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qDcRhrVpj4t-9t0wPRiS-21" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Update information" vertex="1">
-          <mxGeometry height="60" width="149" x="354" y="140" as="geometry" />
+          <mxGeometry height="60" width="149" x="360" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="qDcRhrVpj4t-9t0wPRiS-22" edge="1" parent="1" source="qDcRhrVpj4t-9t0wPRiS-21" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="qDcRhrVpj4t-9t0wPRiS-4" value="">
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-22" edge="1" parent="1" source="qDcRhrVpj4t-9t0wPRiS-21" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="qDcRhrVpj4t-9t0wPRiS-23" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="520" />
+              <mxPoint x="300" y="584" />
+            </Array>
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="280" y="170" as="targetPoint" />
           </mxGeometry>
@@ -107,20 +110,26 @@
         <mxCell id="4AVEcXPcKzyx0QGu6PfQ-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="valid information" vertex="1">
           <mxGeometry height="60" width="149" x="100.5" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="4AVEcXPcKzyx0QGu6PfQ-8" edge="1" parent="1" source="4AVEcXPcKzyx0QGu6PfQ-7" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="qDcRhrVpj4t-9t0wPRiS-18" value="">
+        <mxCell id="4AVEcXPcKzyx0QGu6PfQ-8" edge="1" parent="1" source="4AVEcXPcKzyx0QGu6PfQ-7" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="250" y="720" as="sourcePoint" />
-            <mxPoint x="300" y="670" as="targetPoint" />
+            <mxPoint x="174" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4AVEcXPcKzyx0QGu6PfQ-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Error message" vertex="1">
-          <mxGeometry height="60" width="149" x="353" y="450" as="geometry" />
+          <mxGeometry height="60" width="149" x="490" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="4AVEcXPcKzyx0QGu6PfQ-10" edge="1" parent="1" source="4AVEcXPcKzyx0QGu6PfQ-9" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="qDcRhrVpj4t-9t0wPRiS-21" value="">
+        <mxCell id="4AVEcXPcKzyx0QGu6PfQ-10" edge="1" parent="1" source="4AVEcXPcKzyx0QGu6PfQ-9" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="qDcRhrVpj4t-9t0wPRiS-21" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="564.5" y="520" />
+            </Array>
             <mxPoint x="250" y="450" as="sourcePoint" />
-            <mxPoint x="300" y="400" as="targetPoint" />
+            <mxPoint x="564.5" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xs2izEDOWuYLyWvIH7zC-1" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="159" y="940" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

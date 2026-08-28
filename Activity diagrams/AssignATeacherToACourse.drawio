@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="hZy-Pg_WWmPwMkknC1u4">
-    <mxGraphModel dx="1290" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1571" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
             <mxPoint x="174" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qDcRhrVpj4t-9t0wPRiS-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="select a course" vertex="1">
+        <mxCell id="qDcRhrVpj4t-9t0wPRiS-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Choose a course in&amp;nbsp;&lt;div&gt;the list of course&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="94" y="140" as="geometry" />
         </mxCell>
         <mxCell id="qDcRhrVpj4t-9t0wPRiS-7" edge="1" parent="1" source="qDcRhrVpj4t-9t0wPRiS-4" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
@@ -54,9 +54,6 @@
         </mxCell>
         <mxCell id="qDcRhrVpj4t-9t0wPRiS-16" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Error message" vertex="1">
           <mxGeometry height="60" width="149" x="280" y="665" as="geometry" />
-        </mxCell>
-        <mxCell id="qDcRhrVpj4t-9t0wPRiS-18" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="assign a unique student number" vertex="1">
-          <mxGeometry height="60" width="160" x="94" y="940" as="geometry" />
         </mxCell>
         <mxCell id="qDcRhrVpj4t-9t0wPRiS-20" edge="1" parent="1" source="qDcRhrVpj4t-9t0wPRiS-16" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="qDcRhrVpj4t-9t0wPRiS-21" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -101,17 +98,20 @@
         <mxCell id="4AVEcXPcKzyx0QGu6PfQ-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Assign this teacher to this course" vertex="1">
           <mxGeometry height="60" width="149" x="100.5" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="4AVEcXPcKzyx0QGu6PfQ-8" edge="1" parent="1" source="4AVEcXPcKzyx0QGu6PfQ-7" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="qDcRhrVpj4t-9t0wPRiS-18" value="">
+        <mxCell id="4AVEcXPcKzyx0QGu6PfQ-8" edge="1" parent="1" source="4AVEcXPcKzyx0QGu6PfQ-7" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="250" y="720" as="sourcePoint" />
-            <mxPoint x="300" y="670" as="targetPoint" />
+            <mxPoint x="174" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4AVEcXPcKzyx0QGu6PfQ-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="check if course exist" vertex="1">
+        <mxCell id="4AVEcXPcKzyx0QGu6PfQ-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="choose a course" vertex="1">
           <mxGeometry height="60" width="160" x="94" y="245" as="geometry" />
         </mxCell>
         <mxCell id="4AVEcXPcKzyx0QGu6PfQ-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="select a teacher" vertex="1">
           <mxGeometry height="60" width="160" x="94" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="btY4n2aLL2IYc2GXsGXl-1" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="160" y="940" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
